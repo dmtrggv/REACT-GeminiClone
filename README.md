@@ -1,4 +1,6 @@
-# After open this project, install the react tools with:
+# Important
+
+After open this project, install the react tools with this command:
 npm install / or npm i
 
 # About
